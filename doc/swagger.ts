@@ -14,7 +14,7 @@ const options = {
     ],
     servers: [
       {
-        url: "http://localhost:3000", // change this to your deployed URL later
+        url: "https://blog-auth-api-seven.vercel.app/", // change this to your deployed URL later
       },
     ],
     components: {
