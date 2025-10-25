@@ -1,0 +1,21 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "My Next.js API",
+    "version": "1.0.0",
+    "description": "API documentation generated automatically by swagger-jsdoc"
+  },
+  "servers": [
+    {
+      "url": "https://blog-auth-api-seven.vercel.app/api",
+      "description": "Production server"
+    },
+    {
+      "url": "http://localhost:3000/api",
+      "description": "Local development server"
+    }
+  ],
+  "paths": {},
+  "components": {},
+  "tags": []
+}
